@@ -1,3 +1,3 @@
 # IOS
 Operačné Systémy
-Projekt 1: Shell skript typu filter. Načítanie súboru a vyfiltrovanie určitých informácií.
+Projekt 1: Shell script typu filter. Načítanie súboru a vyfiltrovanie určitých informácií.
